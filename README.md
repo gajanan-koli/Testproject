@@ -9,7 +9,7 @@
 6. web api
 7. react
 
-# first run SCM.DB.DEploy project to deploy Database 
+## first run SCM.DB.DEploy project to deploy Database 
 
 #Project structure
 
