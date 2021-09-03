@@ -1,0 +1,12 @@
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\bin\Debug\netcoreapp3.1\SCM.Repository.deps.json
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\bin\Debug\netcoreapp3.1\SCM.Repository.dll
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\bin\Debug\netcoreapp3.1\SCM.Repository.pdb
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\bin\Debug\netcoreapp3.1\SCM.Domain.dll
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\bin\Debug\netcoreapp3.1\SCM.Domain.pdb
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\obj\Debug\netcoreapp3.1\SCM.Repository.csproj.AssemblyReference.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\obj\Debug\netcoreapp3.1\SCM.Repository.AssemblyInfoInputs.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\obj\Debug\netcoreapp3.1\SCM.Repository.AssemblyInfo.cs
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\obj\Debug\netcoreapp3.1\SCM.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\obj\Debug\netcoreapp3.1\SCM.Repository.csproj.CopyComplete
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\obj\Debug\netcoreapp3.1\SCM.Repository.dll
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Repository\obj\Debug\netcoreapp3.1\SCM.Repository.pdb

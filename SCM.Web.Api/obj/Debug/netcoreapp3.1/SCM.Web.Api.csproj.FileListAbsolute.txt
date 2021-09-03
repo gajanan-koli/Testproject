@@ -1,0 +1,5 @@
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Web.Api\obj\Debug\netcoreapp3.1\SCM.Web.Api.csproj.AssemblyReference.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Web.Api\obj\Debug\netcoreapp3.1\SCM.Web.Api.AssemblyInfoInputs.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Web.Api\obj\Debug\netcoreapp3.1\SCM.Web.Api.AssemblyInfo.cs
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Web.Api\obj\Debug\netcoreapp3.1\SCM.Web.Api.csproj.CoreCompileInputs.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Web.Api\obj\Debug\netcoreapp3.1\SCM.Web.Api.MvcApplicationPartsAssemblyInfo.cache

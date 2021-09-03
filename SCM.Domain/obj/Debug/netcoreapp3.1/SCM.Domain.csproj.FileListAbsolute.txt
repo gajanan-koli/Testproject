@@ -1,0 +1,9 @@
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\bin\Debug\netcoreapp3.1\SCM.Domain.deps.json
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\bin\Debug\netcoreapp3.1\SCM.Domain.dll
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\bin\Debug\netcoreapp3.1\SCM.Domain.pdb
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\obj\Debug\netcoreapp3.1\SCM.Domain.csproj.AssemblyReference.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\obj\Debug\netcoreapp3.1\SCM.Domain.AssemblyInfoInputs.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\obj\Debug\netcoreapp3.1\SCM.Domain.AssemblyInfo.cs
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\obj\Debug\netcoreapp3.1\SCM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\obj\Debug\netcoreapp3.1\SCM.Domain.dll
+C:\Users\gajanan.koli\source\repos\SCM\SCM.Domain\obj\Debug\netcoreapp3.1\SCM.Domain.pdb
